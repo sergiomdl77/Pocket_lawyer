@@ -1,0 +1,44 @@
+license
+**
+46.2-223.1
+expired license
+license has expired
+renew your license
+have not renewed your license
+**
+46.2-224.2
+suspended license
+license is suspended
+**
+46.2-224-3
+revoked license
+be revoked
+****
+drink drinking drunk
+**
+46.2-221.4
+had a drink
+intoxicated
+drinking and driving
+drink
+**
+46.2-221.5
+drinking in public
+open alcoholic drink
+****
+stop stopping
+**
+46.2-300
+stop sign
+ran over a stop sign
+skipped over a stop sign
+ignore a stop sign
+****
+speed speeding running fast
+**
+46.2-303.3
+on a 25
+on a 35
+on a 45
+speeding
+****

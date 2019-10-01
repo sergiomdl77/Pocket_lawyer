@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Lawyer</string>
+    <string name="hint">Tap on mic to start or record to save.</string>
+</resources>
